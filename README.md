@@ -10,3 +10,4 @@ We aim to benchmark the performances of a varities of machine learning suites on
 ### Collaborators
 - Ahsan Ayub
 - Dr. Kazi Kalpoma
+- Anik Chowdhury
